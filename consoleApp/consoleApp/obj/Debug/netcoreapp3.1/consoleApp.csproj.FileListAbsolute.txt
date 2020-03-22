@@ -1,0 +1,13 @@
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.deps.json
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.json
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.dev.json
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.dll
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.pdb
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.csprojAssemblyReference.cache
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfoInputs.cache
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfo.cs
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.dll
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.pdb
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/deremakif/own/consoleApp/consoleApp/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/deremakif/own/consoleApp/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.csproj.CopyComplete
