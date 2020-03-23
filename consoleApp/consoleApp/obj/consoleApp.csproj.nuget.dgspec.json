@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deremakif/own/consoleApp/consoleApp/consoleApp.csproj": {}
+    "/Users/deremakif/own/newConsole/consoleApp/consoleApp/consoleApp.csproj": {}
   },
   "projects": {
-    "/Users/deremakif/own/consoleApp/consoleApp/consoleApp.csproj": {
+    "/Users/deremakif/own/newConsole/consoleApp/consoleApp/consoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deremakif/own/consoleApp/consoleApp/consoleApp.csproj",
+        "projectUniqueName": "/Users/deremakif/own/newConsole/consoleApp/consoleApp/consoleApp.csproj",
         "projectName": "consoleApp",
-        "projectPath": "/Users/deremakif/own/consoleApp/consoleApp/consoleApp.csproj",
+        "projectPath": "/Users/deremakif/own/newConsole/consoleApp/consoleApp/consoleApp.csproj",
         "packagesPath": "/Users/deremakif/.nuget/packages/",
-        "outputPath": "/Users/deremakif/own/consoleApp/consoleApp/obj/",
+        "outputPath": "/Users/deremakif/own/newConsole/consoleApp/consoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/deremakif/.nuget/NuGet/NuGet.Config"
